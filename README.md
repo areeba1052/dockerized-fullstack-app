@@ -37,9 +37,6 @@ It includes a backend API that stores form data and a basic frontend interface s
 ├── running_containers.PNG
 └── venv/
 
-yaml
-Copy code
-
 ---
 
 ## ⚙️ Technologies Used
