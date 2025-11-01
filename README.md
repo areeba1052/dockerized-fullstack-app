@@ -1,9 +1,5 @@
 # 🧩 Flask + Docker Compose Assignment
 
-**Areeba**  
-*(Private university assignment – not for public use)*
-
----
 
 ## 📘 Overview
 
