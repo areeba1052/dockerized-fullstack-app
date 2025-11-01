@@ -58,5 +58,4 @@ It includes a backend API that stores form data and a basic frontend interface s
 
 ## 🏫 Academic Use
 
-This repository is part of coursework for **DevOps / MLOps Lab**.  
-Please do **not** clone, redistribute, or use for production purposes.
+This repository is part of coursework for **MLOps Lab**.  
