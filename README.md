@@ -16,24 +16,6 @@ It includes a backend API that stores form data and a basic frontend interface s
 
 ---
 
-## 🗂️ Project Structure
-
-├── backend/
-│ ├── app.py
-│ ├── mydatabase.db
-│ ├── requirement.txt
-│ ├── dockerfile
-│
-├── frontend/
-│ ├── index.html
-│ ├── src/
-│ ├── dockerfile
-│
-├── docker-compose.yml
-├── running_containers.PNG
-└── venv/
-
----
 
 ## ⚙️ Technologies Used
 
